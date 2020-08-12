@@ -23,3 +23,7 @@ Steps to install and setup:<br/>
 6) Run robot:<br/>
   > cd ~/catkin_ws<br/>
   > rosrun robodog_v2 robodog_v2_hw<br/>
+
+Robot controlled by native G-Code controller, but before running it all servos should be tuned.<br/>
+Each servo has its own offset for fine tuning, for example, for Leg1 (that contains 3 servos) the offsets are setup here:<br/>
+https://github.com/RoboLabHub/RoboDog_v2/blob/master/sources/Services/RobotHW.cpp#L47

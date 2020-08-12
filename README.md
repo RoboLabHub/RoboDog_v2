@@ -2,8 +2,10 @@
 
 3D printed quadruped RoboDog V2 (upgrade) on smart servos (LewanSoul LX-16A) 
 
-Sources:<br/>
+Robot controlled by native G-Code controller:<br/>
 https://github.com/RoboLabHub/RoboDog_v2/tree/master/sources<br/>
+The example G-Code file:<br/>
+https://github.com/RoboLabHub/RoboDog_v2/blob/master/sources/GCODE/test.gcode
 
 Demo video:<br/>
 https://youtu.be/kvV6f_oAQVc<br/>
