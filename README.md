@@ -2,6 +2,10 @@
 
 3D printed quadruped RoboDog V2 (upgrade) on smart servos (LewanSoul LX-16A) 
 
+Sources:<br/>
+https://github.com/RoboLabHub/RoboDog_v2/tree/master/sources<br/>
+
+Demo video:<br/>
 https://youtu.be/kvV6f_oAQVc<br/>
 https://youtu.be/Q89ZDH0yqHA
 
