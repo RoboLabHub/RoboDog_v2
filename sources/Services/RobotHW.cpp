@@ -81,12 +81,12 @@ int main(int argc, char **argv)
 
     // Test code, comment it after robot tune up completion
     for (int i = 1; i <= 4; ++i) {
-        //ctrl->m_legs[i]->tune_pos_1(false);
+        ctrl->m_legs[i]->tune_pos_1(false);
         //ctrl->m_legs[i]->tune_pos_2(false);
     }
 
     // Uncomment it to run test gcode
-    ctrl->run_from_file("src/RoboDog_v2/source/GCODE/test.gcode");
+    //ctrl->run_from_file("src/RoboDog_v2/sources/GCODE/test.gcode");
 
     return 1;
 }
