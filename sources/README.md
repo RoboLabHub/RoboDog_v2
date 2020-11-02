@@ -20,6 +20,7 @@ Steps to install and setup:<br/>
 5) Compile sources:<br/>
   > cd ~/catkin_ws<br/>
   > catkin_make<br/>
+  > source ~/catkin_ws/devel/setup.bash<br/>
 6) Run robot:<br/>
   > cd ~/catkin_ws<br/>
   > rosrun robodog_v2 robodog_v2_hw<br/>
