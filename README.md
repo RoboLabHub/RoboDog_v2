@@ -20,3 +20,6 @@ https://www.instructables.com/id/DIY-Spot-Like-Quadruped-Robot/
 
 About LewanSoul servos:<br/>
 https://www.instructables.com/id/How-to-Configure-and-Use-Smart-Servos-LewanSoul-LX/
+
+The image for Raspberry PI4:
+https://github.com/RoboLabHub/Tips/tree/master/RoboDog_image
